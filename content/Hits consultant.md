@@ -59,3 +59,17 @@ The table named "Authors" contains the following columns:
 7. **Why create a function, and what is the difference between a function and a procedure?**
 8. **if you have  a cursor on a package and a function, when to  use the function's cursor  instead of the package's?**
 9. **How to get the days an employee was absent in January from a table that includes employee names and attendance days?**
+## Abdallah
+
+1. What are the types of joins?
+2. Why can I use a cross join?
+3. What is the purpose of the `SUBSTR` function and what does it do?
+4. If I have text and the user might enter the date in two different formats, how can I store it in the database in a single format?
+5. Given the number `234.123.421.445.222`, how can I split it into five parts separated by dots, and how can I retrieve a specific part if requested?
+6. Can I perform `INSERT` operations on a view, and under what conditions can or cannot I do so?
+7. Why would I use a cursor, and what is its benefit?
+8. How can I retrieve the top 10 highest salaries from the `employees` table, including cases where multiple employees may have the same salary?
+9. How can I prevent a user from inserting more than 5000 rows through a form, not from the database?
+10. How can I create a query to fetch data for each employee along with the total salaries for their respective department?
+11. What are virtual tables?
+12. Given a table with 10 million rows, how can I transfer data to a virtual table for performance reasons, and what strategies can improve performance?
